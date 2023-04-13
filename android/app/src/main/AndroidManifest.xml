@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.popit">
    <application
-        android:label="popit"
+        android:label="pop itflutter pub global activate rename"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
